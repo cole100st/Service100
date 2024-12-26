@@ -8,7 +8,7 @@
 
 # :bulb:__Téléchargement__ 
 
-- [Service100](https://github.com/cole100st/TP100/releases/tag/TP100)
+- [Service100](https://github.com/cole100st/Service100/releases/tag/Service100)
 
 # :computer:__Installation__
 
